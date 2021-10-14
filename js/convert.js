@@ -1,4 +1,4 @@
-const testString = "joke==funny ? joke==acceptable ? laugh() : doNothing() : smile()";
+const testString = "insert ternary condition here";
 document.getElementsByClassName( "form-control" )[ 0 ].value = testString;
 document.getElementById( "convert" ).addEventListener( "click", () => { convert(); } );
 
